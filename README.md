@@ -110,8 +110,8 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 🤝 Support
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: admin@hyperbuildx.com
-- Telegram: [@hyperbuildx](https://t.me/hyperbuildx)
+
+- Telegram: [@devsealva](https://t.me/devsealva)
 
 ---
 
